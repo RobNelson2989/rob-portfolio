@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@rob.portfolio:
+  ssh: vagrant:rob.portfolio:/var/www/html
